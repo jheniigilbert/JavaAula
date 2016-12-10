@@ -6,6 +6,8 @@ import models.Imovel;
 import javax.swing.JOptionPane;
 
 public class LocadoraDeImoveis {
+    
+    
 
     public void testeExmeploAplicado() {
 
